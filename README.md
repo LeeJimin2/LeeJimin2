@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=LeeJimin2)](https://github.com/LeeJimin2/github-readme-stats)
+[![Jimin's Github stats](https://github-readme-stats.vercel.app/api?username=LeeJimin2)](https://github.com/LeeJimin2/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeJimin2)](https://github.com/LeeJimin2/github-readme-stats)
