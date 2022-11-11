@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 -->
 
 [![Jimin's Github stats](https://github-readme-stats.vercel.app/api?username=LeeJimin2)](https://github.com/LeeJimin2/github-readme-stats)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeJimin2)](https://hits.seeyoufarm.com)
