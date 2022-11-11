@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=JIMIN&fontSize=70&animation=twinkling)
 [![Jimin's Github stats](https://github-readme-stats.vercel.app/api?username=LeeJimin2)](https://github.com/LeeJimin2/github-readme-stats)
