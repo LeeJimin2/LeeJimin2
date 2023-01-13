@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Jimin's Github stats](https://github-readme-stats.vercel.app/api?username=LeeJimin2)](https://github.com/LeeJimin2/github-readme-stats)
+![Jimin's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeJimin2&show_icons=true&theme=radical)
